@@ -1,0 +1,33 @@
+1. npm init
+2. npm install express --save
+
+NODEMON - Auto restart server on every change
+1. npm install -g nodemon
+2. nodemon app.js
+
+Express Generator
+1. npm install express-generator -g
+2. express <appName>
+3. cd <appName>
+4. npm install
+5. Change start script to use nodemon instead of node in package.json
+6. npm start
+
+
+1. Install Mongo DB (mongodb.com)
+2. Go to c:\Program Files\MongoDB\Server\Version\bin
+3. use mongod --dbpath "Data Folder Path"
+4. Install monk - npm install monk --save
+5. Write Code to connect and pull data
+
+
+
+
+
+
+
+
+
+
+
+
