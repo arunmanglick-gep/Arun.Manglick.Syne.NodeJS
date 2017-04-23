@@ -1,0 +1,13 @@
+1. Install NOde (nodejs.org)
+2. Check
+	node -v
+	npm -v
+
+3. Update npm
+	npm install -g npm
+
+4. Editor
+	Visual Studio 2013 + Node Tools for VS (NTVS)
+	Visual Studio Code (https://code.visualstudio.com/)
+	Sublime Text + Node Plugins
+
